@@ -5,7 +5,7 @@
   scroll-snap-type: y mandatory;
   overflow-y: scroll;
 ) 
-+2-step . Each container must be a sections and add styles (
++ 2-step . Each container must be a sections and add styles (
   height: 100vh;
   display: flex;
   justify-content: center;
