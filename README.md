@@ -1,6 +1,6 @@
 # Scroll-Snapp
 
-1-step . We need a div classed like container and add styles (
++ 1-step . We need a div classed like container and add styles (
   height: 100vh;
   scroll-snap-type: y mandatory;
   overflow-y: scroll;
